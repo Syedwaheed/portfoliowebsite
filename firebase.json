@@ -1,0 +1,9 @@
+{
+  "hosting": {
+    "site": "waheed-shah",
+    "public": "public",
+    "ignore": [
+      "firebase.json"
+    ]
+  }
+}
